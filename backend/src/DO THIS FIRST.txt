@@ -1,1 +1,3 @@
-Hello Everyone
+Do THIS FIRST
+
+npm install bcrypt class-transformer class-validator cors date-fns dotenv express googleapis js-base64 passport passport-jwt pg reflect-metadata typeorm uuid @types/bcrypt @types/cors @types/dotenv @types/express @types/node @types/passport @types/passport-jwt ts-node-dev typescript
