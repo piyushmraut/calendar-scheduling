@@ -9,7 +9,7 @@ import {
   OneToOne,
   PrimaryGeneratedColumn,
   UpdateDateColumn,
-} from "typeorm";
+} from 'typeorm';
 import { compareValue, hashValue } from "../../utils/bcrypt";
 import { Integration } from "./integration.entity";
 import { Event } from "./event.entity";
