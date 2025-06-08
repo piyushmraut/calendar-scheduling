@@ -1,4 +1,6 @@
-import "dotenv/config";
+// import "dotenv/config";
+import dotenv from "dotenv";
+dotenv.config({ path: ".env.local" }); // 👈 explicitly load .env.local
 import path from "path";
 import { DataSource } from "typeorm";
 
